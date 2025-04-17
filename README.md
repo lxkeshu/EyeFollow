@@ -1,0 +1,2 @@
+# EyeFollow
+Javascript mini project
